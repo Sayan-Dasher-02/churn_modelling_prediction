@@ -43,6 +43,7 @@ pip install -r requirements.txt
 Or manually install the main packages:
 
 pip install streamlit tensorflow scikit-learn pandas numpy
+
 ⚙️ Setup Instructions
 
 Clone or Download this repository:
@@ -53,11 +54,8 @@ cd Customer-Churn-Prediction
 Ensure the following files are present in the same directory:
 
 model.h5
-
 scaler.pkl
-
 label_encoder_gender.pkl
-
 onehot_encoder_geo.pkl
 
 Run the Streamlit app:
