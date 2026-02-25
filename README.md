@@ -118,6 +118,3 @@ Feel free to use, modify, and distribute with proper attribution.
 ---
 
 ✨ **Developed with ❤️ using Streamlit, TensorFlow, and Scikit-learn.**
-
-```
-```
