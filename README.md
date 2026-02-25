@@ -80,11 +80,11 @@ pip install streamlit tensorflow scikit-learn pandas numpy
 3. **Run the Streamlit app:**
 
    ```bash
-   streamlit run app.py
+   Streamlit run app.py --port 6001
    ```
 
 4. The app will open automatically in your browser.
-   If not, open the provided local URL (e.g., `http://localhost:8501`).
+   If not, open the provided local URL (e.g., `http://localhost:6001`).
 
 ---
 
